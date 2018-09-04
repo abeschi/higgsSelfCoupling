@@ -1,12 +1,10 @@
 # TTHAnalsyis
-Code for the analysis HiggsSelfCoupling a la Massirozzo
+Code for the analysis of the  Higgs boson trilinear copling à la Massirozzo
 
 ## Setup
    ```
-
-   https://github.com/abeschi/higgsSelfCoupling.git
+   git clone https://github.com/abeschi/higgsSelfCoupling.git
    cd higgsSelfCoupling
-
    git submodule update --init --recursive
    make
    make exe
